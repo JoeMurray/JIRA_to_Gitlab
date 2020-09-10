@@ -9,6 +9,7 @@ from image_post import image_post
 
 ##############################################################################
 ## Import configuration
+import credentials_etc
 
 # Add a comment with the link to the Jira issue
 ADD_A_LINK = False
